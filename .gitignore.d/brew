@@ -1,0 +1,8 @@
+*
+!.Brewfile
+!.setup.d/
+!.setup.d/01-brew
+!.gitignore.d/
+!.gitignore.d/brew
+!.LICENSES.d/
+!.LICENSES.d/brew
